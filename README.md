@@ -31,4 +31,9 @@
     [Tugas Harian 5](./week%202/Tugas%20Hari%205%20Pekan%202.ipynb)<br>
 
 
- Week 3
+ Week 3<br>
+ *Coming Soon*
+
+ Week 4<br>
+ *Coming Soon*
+
