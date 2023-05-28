@@ -3,7 +3,7 @@
 
  ### Sylabus
 
- Week 1
+ ## Week 1
 
  - Pengenalan Python<br>
     [Tugas](./week%201/Tugas%20Hari%201.ipynb)<br>
@@ -17,7 +17,7 @@
     [Tugas](./week%201/tugas_hari_5_2.ipynb)<br>
 
 
- Week 2
+ ## Week 2
 
  - Pendahuluan Pandas<br>
     [Tugas](./week%202/Tugas%20Hari%201%20Pekan%202.ipynb)<br>
@@ -31,9 +31,9 @@
     [Tugas](./week%202/Tugas%20Hari%205%20Pekan%202.ipynb)<br>
 
 
- Week 3<br>
+ ## Week 3<br>
  *Coming Soon*
 
- Week 4<br>
+ ## Week 4<br>
  *Coming Soon*
 
