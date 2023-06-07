@@ -32,8 +32,24 @@
 
 
  ## Week 3<br>
- *Coming Soon*
+ 
+ - Matplotlib<br>
+   [Tugas](./week%203/Tugas_Hari_1_Pekan_3.ipynb)<br>
+ - Custom Visualization<br>
+   [Tugas](./week%203/Tugas%20%20Hari%202%20Pekan%203.ipynb)<br>
+ - Multiple Subplots<br>
+   [Tugas](./week%203/Tugas%20Hari%203%20Pekan%203.ipynb)<br>
+ - Quantitative Comparison<br>
+   [Tugas](./week%203/Tugas%20Hari%204%20Pekan%203.ipynb)<br>
+ - Seaborn<br>
+   [Tugas](./week%203/Tugas%20Hari%205%20Pekan%203.ipynb)<br>
 
  ## Week 4<br>
- *Coming Soon*
+ 
+ - Handling Missing Value, Outliers, & Data Scaling<br>
+   [Tugas](./week%204/Tugas_1_Pekan_4_(EDA).ipynb)<br>
+ - Variate Analysis<br>
+   [Tugas](./week%204/Tugas_2_Pekan_4(EDA).ipynb)<br>
+ - Unsupervised Learning - Clustering<br>
+   [Tugas](./week%204/Tugas_Day_3(EDA).ipynb)<br>
 
